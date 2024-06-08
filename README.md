@@ -1,6 +1,6 @@
 # flutter_riverpod_studies
 
-A new Flutter project.
+A new Flutter project to study riverpod
 
 ## Getting Started
 
@@ -10,6 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- https://riverpod.dev/docs/introduction/getting_started#installing-the-package
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
